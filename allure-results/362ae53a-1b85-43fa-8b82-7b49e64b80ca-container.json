@@ -1,0 +1,1 @@
+{"uuid":"362ae53a-1b85-43fa-8b82-7b49e64b80ca","name":"Frameworkhybridv1","children":["a84c6ace-940b-42ba-88b0-30ee566b7720"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1693460945181,"stop":1693460950412}],"afters":[],"start":1693460945134,"stop":1693460951879}
